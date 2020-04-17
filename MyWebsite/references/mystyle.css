@@ -189,11 +189,32 @@ footer img {
 }
 
 #am-words {
-  margin: 50px 250px;
+  width: 40%;
+  margin-left: 2%;
+  margin-right: 2%;
+  display: inline-block;
   background-color: white;
   font-family: 'Lato', sans-serif;
   color: #217280;
   padding: 20px 20px;
+  margin-top: 40px;
+  margin-bottom: 145px;
+}
+
+#am-photos {
+  margin-right: 5%;
+  width: 20%;
+  float: right;
+  background-color: #c8dcdf;
+  padding: 10px;
+}
+
+#am-photos-left {
+  float: left;
+  width: 19%;
+  margin-left: 5%;
+  background-color: #c8dcdf;
+  padding: 10px;
 }
 
 .footer-menu {
