@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("Livingston-507.png") no-repeat center center; 
+  background-size: cover;
+}
+
+.header {
+  background-image: url("TextBackground2.png") no repeat center center'
+  background-size: cover;
+  width: 30%;
+  
+}
+
+p {
+  font-family: Didiot;
+}
+
+.container {
+  font-size: 100px;
+}

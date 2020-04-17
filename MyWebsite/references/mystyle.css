@@ -1,0 +1,232 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+a {
+  text-decoration: none;
+}
+.header {
+  background-image: url("./Livingston-507Edit1.png"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 50px;
+  padding-top: 25px;
+}
+.web-name p {
+  font-family: 'Prata', serif;
+  background-color: white;
+  color: #217280;
+  font-size: 50px;
+  text-align: center;
+  margin-left: 8%;
+  margin-right: 67%;
+  padding: 20px;
+  opacity: .9;
+  min-width: 245px;
+  overflow: scroll;
+}
+.logo {
+  margin: 0 200px;
+}
+.menu-item{
+  margin-top: 300px;
+  margin-left: 70%;
+  margin-right: 10%;
+  margin-bottom: 25px;
+}
+.menu-item p{
+  font-family: 'Courier New', Courier, monospace;
+  background-color: white;
+  color: #217280;
+  font-size: 20px;
+  opacity: .8;
+  text-align: center;
+  padding: 10px;
+  min-width: 50px;
+}
+.menu-item p:hover {
+  opacity: 1;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+.center-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
+.body-words {
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.body-words p {
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  color: #217280;
+  opacity: 1;
+  padding-top: 10px;
+  padding-left: 150px;
+  padding-right: 150px;
+  text-align: left;
+}
+.body-words p a {
+  text-decoration: none;
+  color: #217280;
+}
+
+.body-words a:hover {
+  background-color: #217280;
+  color: white;
+}
+
+.img-line {
+  text-align: center;
+  display: inline-block;
+  height: 175px;
+  height: 175px;
+}
+
+footer {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  display: block;
+  height: 100px;
+  text-align: center;
+
+}
+footer p {
+  text-align: center;
+  color: #217280;
+  display: inline-block;
+  margin: auto;
+  height: 100px;
+  padding: 40px;
+  
+}
+footer img {
+  display: inline-block;
+  margin-left: 75px;
+  margin-right: 75px;
+  height: 100px;
+  padding: auto auto;
+}
+
+.res-header h1 {
+  margin-left: 10%;
+  margin-right: 50%;
+  background-color: #c8dcdf;
+  font-family: 'Prata', serif;
+  font-size: 60px;
+  padding: 30px;
+  color: #217280;
+  text-align: center;
+  margin-top: 0px;
+}
+.res-header p {
+  color: white;
+  background-color: #217280;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  margin-left: 13%;
+  margin-right: 65%;
+  text-align: center;
+  font-size: 25px;
+  padding: 15px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.res-body {
+  padding-top: 20px;
+}
+
+.container {
+  font-size: 100px;
+}
+
+.resume-writing p{
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  color: #217280;
+  opacity: 1;
+  text-align: left;
+  margin: 0px 150px;
+  padding-top: 5px;
+  padding-left: 0px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+}
+
+.resume-writing ul, li{
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  color: #217280;
+  opacity: 1;
+  text-align: left;
+  margin-top: 0px;
+  margin-left: 100px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 10px;
+}
+
+.am-body {
+  background-image: url(./Background1.png);
+  background-size: cover;
+  background-position: center center;
+  margin-top: 0px;
+  height: 1000px;
+}
+
+#am-words {
+  margin: 50px 250px;
+  background-color: white;
+  font-family: 'Lato', sans-serif;
+  color: #217280;
+  padding: 20px 20px;
+}
+
+.footer-menu {
+  margin: 15px 250px;
+  text-align: center;
+}
+.footer-menu p {
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  padding: 15px 10px;
+  width: 19%;
+  overflow: scroll;
+  display: inline-block;
+  color: #217280;
+  background-color: #c8dcdf;
+  opacity: .7;
+}
+.footer-menu a{
+  color:#217280; 
+}
+.footer-menu p:hover {
+  opacity: 1;
+}
+.gallery {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  background-color: #c8dcdf;
+}
+.gallery img {
+  height: 300px;
+  margin: 10px;
+}
