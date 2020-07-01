@@ -13,12 +13,21 @@ a {
   background-position: center;
   padding-bottom: 50px;
   padding-top: 25px;
+  height: 725px;
 }
 .web-name p {
+  color: #217280;
+  font-family: 'Prata', serif;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 0px;
+
+}
+.web-name h1 {
   font-family: 'Prata', serif;
   background-color: white;
   color: #217280;
-  font-size: 50px;
+  font-size: 40px;
   text-align: center;
   width: 50%;
   margin: auto auto;
@@ -30,8 +39,10 @@ a {
   margin: 0 200px;
 }
 .menu-item{
-  width: 40%;
-  margin: 0px auto;
+  width: 100%;
+  margin-left: 78%;
+  position: fixed;
+  bottom: 115px;
 }
 .menu-item p{
   font-family: 'Lato', sans-serif;
@@ -40,8 +51,8 @@ a {
   color: #217280;
   font-size: 20px;
   opacity: .8;
-  text-align: center;
-  padding: 10px;
+  text-align: left;
+  padding: 10px 30px;
   min-width: 50px;
 }
 .menu-item p:hover {
