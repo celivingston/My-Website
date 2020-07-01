@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+ <title>Testing 2</title>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+ <style>
+
+  body {
+  	margin: 0;
+  	background: url("Livingston-507.jpg");
+  	background-repeat: no-repeat;
+  	background-size: 100%;
+  }
+  
+  h1 {
+  	color: #669999;
+  	font-size: 400%;
+  	position: relative;
+  	left: 100px;
+  	top: 250px;
+  }
+  h2 {
+  	color: black
+  	position: relative;
+  	left: 100px;
+  	font-size: 200%;
+  }
+  img {
+  	position: relative;
+  	left: 100px;
+  }
+  p {
+  	color: Beige;
+  	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  	font-size: 150%;
+  }
+  
+  div.centertext {
+  	position: relative;
+  	margin-left: 20%;
+  	margin-right: 10%;
+	margin-top: 5%;
+  	width: 50%;
+  	left: 100px;
+  	background-image: url('TextBackground2.png');
+  	background-repeat: no-repeat;
+  	background-size: 100%;
+  	padding-top: 100px;
+  	padding-left: 90px;
+  	padding-right: 80px;
+	text-align: center;
+  }
+  div.centertext p {
+  	color: #476b6b;
+  	font-size: 350%
+  
+  }
+ </style>
+ <p>
+  <img src="CatherineLivingstonLogo2.png" alt="Logo" style="width:35%;">
+
+ </p>
+
+ <div class="centertext">
+  <p>Welcome to my website!</p>
+  <p>Standing on the River Thames, London has been a major settlement for two millennia,
+   its history going back to its founding by the Romans, who named it Londinium.
+   <br>
+   <br>
+   <br>
+  </p>
+
+ </div>
+
+ </font>
+</body>
+
+</html>
